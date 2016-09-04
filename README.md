@@ -14,11 +14,11 @@ Rares:
 
 
 ## List of achivments:
-![yin-yang](/img/circular-saw.png) id_javax, for help
-
-![radmir2015](/img/radmir2015.png) radmir2015, for guess the number
-
-![circular-saw](/img/yin-yang.png) Profworld, for tips
+Achivment | Nickname | Description
+------------- | ------------- | -------------
+![yin-yang](/img/circular-saw.png) | id_javax | for help
+![radmir2015](/img/radmir2015.png) |  radmir2015 | for guess the number
+![circular-saw](/img/yin-yang.png) |  Profworld | for tips
 
 ### CC
 All images from [game-icons.net](http://game-icons.net/)
