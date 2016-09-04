@@ -13,7 +13,7 @@ Rares:
 ![crown](/img/rares/5lvl.png) lvl 5 Very rare (#F50057)
 
 
-### List of achivments:
+## List of achivments:
 ![yin-yang](/img/circular-saw.png) id_javax, for help
 
 ![radmir2015](/img/radmir2015.png) radmir2015, for guess the number
