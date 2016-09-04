@@ -1,5 +1,7 @@
 # Achivments of stream
 
+Achievements can get for helping or solution of puzzles on stream
+
 Rares:
 
 ![crown](/img/rares/1lvl.png) lvl 1 Common (#FFFFFF)
