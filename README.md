@@ -18,9 +18,10 @@ Rares:
 ## List of achivments:
 Achivment | Nickname | Description
 ------------- | ------------- | -------------
-![yin-yang](/img/circular-saw.png) | id_javax | for help
-![radmir2015](/img/radmir2015.png) |  radmir2015 | for guess the number
-![circular-saw](/img/yin-yang.png) |  Profworld | for tips
+![3lvl](/img/eight-ball3lvl.png) | othellofun | for guess the number 3.1415926
+![3lvl](/img/circular-saw.png) | id_javax | for help
+![2lvl](/img/radmir2015.png) |  radmir2015 | for guess the number
+![1lvl](/img/yin-yang.png) |  Profworld | for tips
 
 ### CC
 All images from [game-icons.net](http://game-icons.net/)
