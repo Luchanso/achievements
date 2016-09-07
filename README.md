@@ -20,8 +20,8 @@ Achivment | Nickname | Description
 ------------- | ------------- | -------------
 ![3lvl](/img/eight-ball3lvl.png) | othellofun | for guess the number 3.1415926
 ![3lvl](/img/circular-saw.png) | id_javax | for help
-![2lvl](/img/radmir2015.png) | radmir2015 | for guess the number
 ![2lvl](/img/ace.png) | novax | for guess the number
+![2lvl](/img/radmir2015.png) | radmir2015 | for guess the number
 ![1lvl](/img/trireme.png) | beauty_free | for new knowledge
 ![1lvl](/img/yin-yang.png) |  Profworld | for tips
 
