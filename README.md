@@ -1,4 +1,4 @@
-# Achivements of stream
+# Achievements of stream
 
 Achievements can get for helping or solution of puzzles on stream
 
@@ -16,7 +16,7 @@ Rares:
 
 
 ## List of achivments:
-Achivement | Nickname | Description
+Achievement | Nickname | Description
 ------------- | ------------- | -------------
 ![3lvl](/img/eight-ball3lvl.png) | othellofun | for guess the number 3.1415926
 ![3lvl](/img/circular-saw.png) | id_javax | for help
