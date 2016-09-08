@@ -18,8 +18,10 @@ Rares:
 ## List of achievements:
 Achievement | Nickname | Description
 ------------- | ------------- | -------------
+
 ![4lvl](/img/graduate-cap.png) | id_javax | for help in project 3angle
 ![3lvl](/img/eight-ball3lvl.png) | othellofun | for guess the number 3.1415926
+![3lvl](/img/spyglass.png) | beauty_free | for guess the number
 ![3lvl](/img/circular-saw.png) | id_javax | for help
 ![2lvl](/img/rolling-dices.png) | id_javax | for guess the number
 ![2lvl](/img/ace.png) | novax | for guess the number
