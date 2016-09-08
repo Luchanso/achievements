@@ -24,6 +24,7 @@ Achievement | Nickname | Description
 ![2lvl](/img/rolling-dices.png) | id_javax | for guess the number
 ![2lvl](/img/ace.png) | novax | for guess the number
 ![2lvl](/img/radmir2015.png) | radmir2015 | for guess the number
+![1lvl](/img/dragonfly.png) |  grafi | for guess the number
 ![1lvl](/img/whistle.png) | vlad3d | for fixing my english
 ![1lvl](/img/trireme.png) | beauty_free | for new knowledge
 ![1lvl](/img/yin-yang.png) |  Profworld | for tips
