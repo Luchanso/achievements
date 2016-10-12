@@ -30,7 +30,7 @@ Achievement | Nickname | Description
 ![2lvl](/img/rolling-dices.png) | id_javax | for guess the number
 ![2lvl](/img/ace.png) | novax | for guess the number
 ![2lvl](/img/radmir2015.png) | radmir2015 | for guess the number
-![1lvl](/img/fishing) | kunamori | helped found
+![1lvl](/img/fishing.png) | kunamori | helped found
 ![1lvl](/img/helicopter.png) | nagibauvsex | for new atom plugin
 ![1lvl](/img/nails.png) | 3m1l | For suggetion
 ![1lvl](/img/ship-wheel.png) | stinger086 | for guess the color
