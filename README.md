@@ -23,6 +23,8 @@ Achievement | Nickname | Description
 ![3lvl](/img/sound-waves.png) | radmir2015 | for help with sounds
 ![3lvl](/img/eight-ball3lvl.png) | othellofun | for guess the number 3.1415926
 ![3lvl](/img/circular-saw.png) | id_javax | for help
+![2lvl](/img/pointy-sword.png) | ratatyq | guess the bug in the code
+![2lvl](/img/stick-grenade.png) | kottim | For helping found bug
 ![2lvl](/img/rocket.png) | virax | for funny
 ![2lvl](/img/triforce.png) | timmy359 | for attentiveness
 ![2lvl](/img/falling-blob.png) | beauty_free | for attentiveness
