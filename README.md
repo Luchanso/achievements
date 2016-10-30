@@ -19,6 +19,7 @@ Rares:
 Achievement | Nickname | Description
 ------------- | ------------- | -------------
 ![4lvl](/img/graduate-cap.png) | id_javax | for help in project 3angle
+![3lvl](/img/hammer-nails.png) | ricohshield | for suggestion algorithm
 ![3lvl](/img/radar-sweep.png) | kartonarmadon | for fond hard bug
 ![3lvl](/img/sound-waves.png) | radmir2015 | for help with sounds
 ![3lvl](/img/eight-ball3lvl.png) | othellofun | for guess the number 3.1415926
