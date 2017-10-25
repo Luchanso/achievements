@@ -2,6 +2,8 @@
 
 Achievements can get for helping or solution of puzzles on stream
 
+All icons taked from http://game-icons.net/
+
 Rares:
 
 ![crown](/img/rares/1lvl.png) lvl 1 Common (#FFFFFF)
@@ -19,6 +21,7 @@ Rares:
 Achievement | Nickname | Description
 ------------- | ------------- | -------------
 ![4lvl](/img/graduate-cap.png) | id_javax | for help in project 3angle
+![3lvl](/img/computing.png) | othellofun | for help with mathematical formula
 ![3lvl](/img/hammer-nails.png) | ricohshield | for suggestion algorithm
 ![3lvl](/img/radar-sweep.png) | kartonarmadon | for fond hard bug
 ![3lvl](/img/sound-waves.png) | radmir2015 | for help with sounds
